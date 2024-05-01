@@ -17,5 +17,5 @@ VALUES (1, "MerchantServices",  35000),
        (8, "IT department", 9500);
 	SELECT * FROM employee;
     
-/* Query to find the largest salaru within each department */
+/* Query to find the largest salary within each department */
 SELECT Department, MAX(SALARY) as Largest_Salary FROM employee GROUP by Department;
