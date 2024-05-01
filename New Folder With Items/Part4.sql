@@ -1,7 +1,7 @@
 /*Part 4 - Data Analysis*/
 /* I would start off by Identifying items that are vegan and non-vegan. After reviewing the dataset,
 we can identify the keywords or phrases that indicates whether the items are vegan or non-vegan. In the given dataset
-there are terms such as "vegan", "plant-bases" which are easily identifiable as vegan items. Items that are non-vegan will 
+there are terms such as "vegan", "plant-based" which are easily identifiable as vegan items. Items that are non-vegan will 
 be some type of dairy products or animal products. 
 
 Using these keywords, I would filter the items. Filtering will make the process easier by cutting 
